@@ -7,7 +7,6 @@ import designpatterns.bridge.withbridge.workshop.Assemble;
 import designpatterns.bridge.withbridge.workshop.Khabesa;
 import designpatterns.bridge.withbridge.workshop.Produce;
 import designpatterns.bridge.withbridge.workshop.Workshop;
-import designpatterns.bridge.withoutbridge.car.CarProduce;
 
 public class Demo {
     public static void main(String[] args) {
